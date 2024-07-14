@@ -1,6 +1,6 @@
 # Documentation-Marvel-Level-3
 ## Task 1 - Decision Tree based ID3 Algorithm
-Used Decision trees based ID3 Algorthm to predict the win quality. 
+Used Decision trees based ID3 Algorthm to predict the wine quality. 
 Built ID3 algorthm from scratch. Calculated entropy, information gain, weighted average entropy of the dataset.    
 [Code](https://github.com/vvvvvvss/Decision-Tree-based-ID3-Algorithm)
 
