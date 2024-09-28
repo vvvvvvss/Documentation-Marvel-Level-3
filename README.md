@@ -45,7 +45,8 @@ I first create a parameter grid that tries different values of each parameters s
 K-means clustering is a popular unsupervised machine learning algorithm used for partitioning a dataset into a pre-defined number of clusters.
 This first step for this task was to find the 'k' value and initialize the centroids.
 Next, by converting the images into numerical data and applying clustering, I classified image segments.  
-[Code](https://github.com/vvvvvvss/KMeansClustering/tree/main)  
+[Code](https://github.com/vvvvvvss/KMeansClustering/tree/main)   
+  
 ![image](https://github.com/user-attachments/assets/2f05fcd5-7dac-4d3b-8a67-4a88efe8d731)  
 
 
