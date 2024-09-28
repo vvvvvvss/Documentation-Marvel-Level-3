@@ -2,7 +2,7 @@
 ## Task 1 - Decision Tree based ID3 Algorithm
 To predict the quality of wine, I used Decision Tree using the ID3 algorithm.
 I built the ID3 algorithm from scratch which involved calculating entropy, information gain, and weighted average entropy to identify the optimal feature for each split.
-Features like acidity and alcohol content, were important predictors of wine quality.
+Features like acidity and alcohol content, were important predictors of wine quality.  
 [Code](https://github.com/vvvvvvss/Decision-Tree-based-ID3-Algorithm)
 
 ## Task 2: Naive Bayesian Classifier
@@ -14,7 +14,7 @@ This is done by analyzing repeated words in each category. The categorical data 
 ## Task 3 - Ensemble techniques  
 Applied Ensemble Techniques to the titanic dataset. To this dataset, I incooperated all three ensemble techniques.
 Ensemble learning refers to algorithms that combine the predictions from two or more models. 
-Combining models like Random Forest, Decision Trees, and Gradient Boosting increased the accuracy of the model.
+Combining models like Random Forest, Decision Trees, and Gradient Boosting increased the accuracy of the model.  
 [Code](https://github.com/vvvvvvss/EnsembleTechniques/tree/main)
 
 ## Task 4 - Random Forest, GBM and Xgboost
