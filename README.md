@@ -1,7 +1,8 @@
 # Documentation-Marvel-Level-3
 ## Task 1 - Decision Tree based ID3 Algorithm
-Used Decision trees based ID3 Algorthm to predict the wine quality. 
-Built ID3 algorthm from scratch. Calculated entropy, information gain, weighted average entropy of the dataset.    
+To predict the quality of wine, I used Decision Tree using the ID3 algorithm.
+I built the ID3 algorithm from scratch which involved calculating entropy, information gain, and weighted average entropy to identify the optimal feature for each split.
+Features like acidity and alcohol content, were important predictors of wine quality.
 [Code](https://github.com/vvvvvvss/Decision-Tree-based-ID3-Algorithm)
 
 ## Task 2: Naive Bayesian Classifier
@@ -34,7 +35,7 @@ XGBoost is also an Ensemble learning method, that stands for Extreme Gradient Bo
 ## Task 5 - Hyperparameter Tuning
 Used Hyperparameter tuning to increase the accurcy from 81% to 92% of Student performance dataset. 
 I first create a parameter grid that tries different values of each parameters such as max_depth, min_samples_split, min_samples_leaf, criterion and find the fest values for each parameter.  
-(Code](https://github.com/vvvvvvss/Hyperparameters/blob/main/StudentPerformance.ipynb]  
+[Code](https://github.com/vvvvvvss/Hyperparameters/blob/main/StudentPerformance.ipynb])  
 ### Before Hyperparameter Tuning
 ![image](https://github.com/user-attachments/assets/dcfae1e1-3259-4e67-8410-64cbd4318173)
 ### After Hyperparameter Tuning
