@@ -45,13 +45,15 @@ I first create a parameter grid that tries different values of each parameters s
 K-means clustering is a popular unsupervised machine learning algorithm used for partitioning a dataset into a pre-defined number of clusters.
 This first step for this task was to find the 'k' value and initialize the centroids.
 Next, by converting the images into numerical data and applying clustering, I classified image segments.  
+[Code](https://github.com/vvvvvvss/KMeansClustering/tree/main)  
 ![image](https://github.com/user-attachments/assets/2f05fcd5-7dac-4d3b-8a67-4a88efe8d731)  
 
-[Code](https://github.com/vvvvvvss/KMeansClustering/tree/main)
 
 ## Task 7: Anomaly Detection
 I learned about anomaly detection techniques and implemented them on the load_linnerud dataset(toy dataset), which contains physiological and exercise data.
 I applied the Local Outlier Factor (LOF) algorithm  to identify outliers in the dataset. 
-In this datset the outliers would be unusual physiological responses or extreme exercise measurements.    
+In this datset the outliers would be unusual physiological responses or extreme exercise measurements.  
+[Code](https://github.com/vvvvvvss/AnomalyDetection/tree/main)  
+  
 ![image](https://github.com/user-attachments/assets/d7f580d9-a52a-4979-b153-4b6f247add64)  
-[Code](https://github.com/vvvvvvss/AnomalyDetection/tree/main)
+
