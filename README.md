@@ -10,6 +10,12 @@ The categorical data is converted into numerical data such that it can be interp
 This is done by analyzing repeated words in each category. The categorical data is converted into numerical data.  
 [Code](https://github.com/vvvvvvss/Naive-bayes/tree/main)
 
+## Task 3 - Ensemble techniques  
+Applied Ensemble Techniques to the titanic dataset. To this dataset, I incooperated all three ensemble techniques.
+Ensemble learning refers to algorithms that combine the predictions from two or more models. 
+Combining models like Random Forest, Decision Trees, and Gradient Boosting increased the accuracy of the model.
+[Code](https://github.com/vvvvvvss/EnsembleTechniques/tree/main)
+
 ## Task 4 - Random Forest, GBM and Xgboost
 ### 1. Random Forest
 Used a random foreset classifier to predict if a patient is with heart disease. Random Forest Classifiers are a collection of individual decision trees. 
@@ -34,3 +40,15 @@ I first create a parameter grid that tries different values of each parameters s
 ### After Hyperparameter Tuning
 ![image](https://github.com/user-attachments/assets/d11ebeb8-5271-458b-a7b4-53218ddf1a99)
 
+## Task 6 : Image Classification using KMeans Clustering
+K-means clustering is a popular unsupervised machine learning algorithm used for partitioning a dataset into a pre-defined number of clusters.
+This first step for this task was to find the 'k' value and initialize the centroids.
+Next, by converting the images into numerical data and applying clustering, I classified image segments.
+[Code](https://github.com/vvvvvvss/KMeansClustering/tree/main)
+
+## Task 7: Anomaly Detection
+I learned about anomaly detection techniques and implemented them on the load_linnerud dataset(toy dataset), which contains physiological and exercise data.
+I applied the Local Outlier Factor (LOF) algorithm  to identify outliers in the dataset. 
+In this datset the outliers would be unusual physiological responses or extreme exercise measurements. 
+![image](https://github.com/user-attachments/assets/d7f580d9-a52a-4979-b153-4b6f247add64)
+[Code](https://github.com/vvvvvvss/AnomalyDetection/tree/main)
