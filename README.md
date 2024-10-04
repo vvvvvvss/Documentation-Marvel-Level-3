@@ -74,18 +74,18 @@ In this datset the outliers would be unusual physiological responses or extreme 
 In GAN two models are trained simultaneously. These two models are Generator and discriminator. 
 The generator is the artist that learns to create images that look real, while a discriminator is the art critic that learns to tell real images apart from fakes.
 During training, the generator progressively becomes better at creating images that look real, while the discriminator becomes better at telling them apart. 
-The process reaches equilibrium when the discriminator can no longer distinguish real images from fakes.
+The process reaches equilibrium when the discriminator can no longer distinguish real images from fakes.  
 [Code](https://github.com/vvvvvvss/GAN/tree/main)  
 ![image](https://github.com/user-attachments/assets/f20edb03-7cc2-425b-bef4-eb845f8c8dc5)
 
 ## Task 9: PDF Query Using LangChain
 LangChain is a framework that allows developers to create agents capable of reasoning about issues and breaking them down into smaller sub-tasks. I used libraries such as 
-HuggingFaceEmbeddings which uses sentence-transformers to generate embeddings for the text chunks, and RetrievalQA Chain which combines retrieval with the LLM to provide answers to your questions.
+HuggingFaceEmbeddings which uses sentence-transformers to generate embeddings for the text chunks, and RetrievalQA Chain which combines retrieval with the LLM to provide answers to your questions.  
 [Code](https://github.com/vvvvvvss/PdfQuery)  
 ![image](https://github.com/user-attachments/assets/a0313cee-e4c4-49f6-b8e3-879295cde33e)
 
 ## Task 10: Table Analysis Using PaddleOCR
 PaddleOCR is an open-source Optical Character Recognition (OCR) tool developed by PaddlePaddle, a deep learning platform from Baidu. 
-It's a powerful library that supports text detection, recognition, and even layout analysis for a wide range of document types.
+It's a powerful library that supports text detection, recognition, and even layout analysis for a wide range of document types.  
 [Code](https://github.com/vvvvvvss/PaddleOCR)  
 ![image](https://github.com/user-attachments/assets/fadb1b11-693a-4d24-9ffd-41a696fa77db)
